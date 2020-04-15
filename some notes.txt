@@ -1,0 +1,6 @@
+Time and space complexity are estimations of just how hard 
+things can and will scale, it's not exact but is a generally 
+good estimation of how something will change as the input gets larger.
+
+is the increase to run an algo relative to input size, 
+whereas space complexity is how much space that takes up while running
